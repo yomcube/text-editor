@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+body {
+    background-color: #1267c9;
+}
+#maintextbox {
+    font-family: monospace;
+}
+#header {
+    width: 100%;
+    position: sticky;
+    font-family: 'Noto Sans', sans-serif;
+}
