@@ -13,7 +13,7 @@ body {
 }
 #maintextbox {
     line-height: 21px;
-    overflow-y: scroll;
+    overflow-y: hidden;
     padding: 0;
     border: 0;
     background: #282a3a;
