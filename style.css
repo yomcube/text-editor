@@ -10,6 +10,7 @@ body {
     background: #282a3a;
     border-radius: 2px;
     padding: 20px 10px;
+    width: 90%;
 }
 #maintextbox {
     line-height: 21px;
@@ -18,7 +19,7 @@ body {
     border: 0;
     background: #282a3a;
     color: #FFF;
-    width: 90%;
+    width: 100%;
     outline: none;
     resize: none;
 }
