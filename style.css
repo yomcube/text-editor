@@ -11,8 +11,8 @@ body {
     border-radius: 2px;
     padding: 20px 10px;
     width: 90%;
-    display: flex;
-    align-items: center; 
+    display: grid;
+    align-items: center;
 }
 #maintextbox {
     line-height: 21px;
@@ -24,7 +24,6 @@ body {
     width: 100%;
     outline: none;
     resize: none;
-    width: 100%;
 }
 #line-numbers {
     width: 20px;
