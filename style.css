@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
 body {
-    background-color: #1267c9;
+    background-color: #282a3a;
 }
 #editor {
     display: inline-flex;
@@ -10,7 +10,8 @@ body {
     background: #282a3a;
     border-radius: 2px;
     padding: 20px 10px;
-    width: 90%;
+    width: 100vw;
+    height: 100vh;
     margin: 0 auto;
 }
 #maintextbox {
