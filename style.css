@@ -12,8 +12,6 @@ body {
     font-family: monospace;
     line-height: 21px;
     background: #282a3a;
-    border-radius: 2px;
-    padding: 20px 10px;
     left: 0;
     right: 0;
     margin: 0 auto;
@@ -25,9 +23,10 @@ body {
     border: 0;
     background: #282a3a;
     color: #FFF;
-    width: 100%;
     outline: none;
     resize: none;
+    left: 0;
+    right: 0;
 }
 #line-numbers {
     width: 20px;
